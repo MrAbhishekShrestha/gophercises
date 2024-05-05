@@ -1,2 +1,5 @@
-# gophercises
-My solutions to Gophercises, Free coding exercises for budding gophers by Jon Calhoun
+# Gophercises
+
+My solutions to [Gophercises](https://gophercises.com)
+
+**Gophercises**: Free coding exercises for budding gophers by Jon Calhoun
